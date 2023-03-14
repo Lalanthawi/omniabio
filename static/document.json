@@ -1,0 +1,74 @@
+{
+  "about":{
+    "name":"Omnia Biosystems",
+    "docName": "Technology_brief",
+    "docLink":"static/document/%DOCNAME%_en.pdf"
+  },
+  "experiences":[
+    {
+      "title":"Cancer Tech Accelerator",
+      "document": true,
+      "link":"www.cancertechaccelerator.co.uk",
+      "city": "London",
+      "img": {
+        "src": "static/img/companies/cancertech.svg",
+        "size": 50,
+        "docSrc": "img/experiences/cancertech.svg",
+        "docSize": "25px"
+      },
+      "description":"Cancer Tech Accelerator 2021."
+    },
+    {
+      "title":"Capital Enterprise",
+      "document": true,
+      "link":"www.capitalenterprise.org",
+      "city": "London",
+      "img": {
+        "src": "static/img/companies/capitalenterprise.svg",
+        "size": 45,
+        "docSrc": "img/experiences/capitalenterprise.svg",
+        "docSize": "18px"
+      },
+      "description":"Capital Enterprise."
+    },
+    {
+      "title":"BIA Pulse",
+      "document": true,
+      "link":"www.biapulse.org",
+      "city": "London",
+      "img": {
+        "src": "static/img/companies/biapulse.svg",
+        "size": 50,
+        "docSrc": "img/experiences/biapulse.svg",
+        "docSize": "25px"
+      },
+      "description":"BIA Pulse 2021."
+    }
+  ],
+  "projects":[
+    {
+    },
+    {
+  
+    },
+    {
+  
+    },
+    {
+      
+    }
+  ],
+  "education":{
+    
+  },
+  "contact":{
+
+    "mail":"hello@omnia.bio",
+    "portfolio":"http://omnia.bio"
+  },
+  "meetup":{
+    
+  },
+  "idGA":"13207838",
+  "robot": "--- This part is for robot only ---Omnia Biosystems--- This part is for robot only ---"
+}
