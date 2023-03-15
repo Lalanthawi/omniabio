@@ -1,0 +1,20 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "now": {
+    "alias": ["omnia.bio", "www.omnia.bio"]
+  },
+  "author": "Omnia Biosystems",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^2.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
