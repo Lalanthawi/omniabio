@@ -13,7 +13,7 @@ export default class extends Document {
     return (
       <html>
         <Head>
-          <title>Omnia Biosytems</title>
+          <title>Omnia Biosystems</title>
 
           <link rel="icon" type="image/png" sizes="16x16" href="static/img/favicons/favicon.png" />
           <meta name="msapplication-TileImage" content="static/img/favicons/favicon.png" />
